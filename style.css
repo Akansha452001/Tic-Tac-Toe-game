@@ -2,15 +2,12 @@
     margin: 0;
     padding: 0;
   }
-  nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 40px;
-    font-family: "Playwrite NL", cursive;
-    color:white;
-}
+  
 
+.head{
+  color:white;
+  text-align:center;
+}
 ul {
     display: flex;
     justify-content: space-around;
